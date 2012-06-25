@@ -1,0 +1,53 @@
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,p,blockquote,th,td{margin:0;padding:0;}
+html{font:13px Arial,Helvetica,sans-serif;background:#fff;color:#000;cursor:default;}
+img{border:0;vertical-align: middle}ul{list-style:none;}
+table{border-collapse:collapse;border-spacing:0;}
+th,td{vertical-align:top;text-align:left;}
+button{font-size:100%;}
+ol{list-style:decimal inside;font-weight:bold;}
+ol li a{font-weight:normal;}
+p,li,dd{margin-bottom:.4em;}
+html,body{height:100%;}
+body{width:100%;}
+
+a{color: #3789C3;}
+a:hover{color:#33abff;}
+
+h1{font-size: 20px;font-weight: normal; margin: 0px 0px 10px 0px;}
+h2{font-family: Tahoma;font-size: 17px;font-weight: normal; margin: 0px 0px 10px 0px;}
+h3{margin: 10px 0px 0px 0px;font-size: 13px;}
+
+.clear{clear:both; font-size:1px; height:1px; line-height:1px;}
+
+.header{padding:7px 0px 40px 25px}
+.header_bg{height:100px; z-index:-1; width:100%; position: absolute; background: url(../images/background.gif) repeat-x top; }
+
+.sidebar {padding: 15px 15px 15px 25px; width: 150px; float: left; background-color:#fffacd;}
+.content {margin-left: 220px; padding: 15px; background-color:#F2F2F2; width:800px}
+.footer {clear: left; padding:25px }
+.login {margin: 0px 0px 0px 25px;padding: 0px 15px 0px 15px;border-left: solid 3px red}
+
+
+.table_sheet{}
+.table_sheet thead tr td{padding:5px 5px 5px 5px;border:solid 2px #7F7F7F;border-left:none;border-right:none;}
+.table_sheet thead .dell {background:url(../images/admin/033.gif) no-repeat center;}
+
+.table_sheet tbody tr td{padding:5px; border-bottom: solid 1px #7F7F7F; }
+.table_sheet tbody tr .footer{padding:5px 0px 5px 5px;border:none;text-align:right}
+
+
+.button{margin-top:10px; padding:3px}
+.left{float:left}
+.right{float:right}
+
+.error{padding: 7px;    background-color: red; color:yellow; }
+.success{padding: 7px; background-color: green; color:white; }
+.red{color: Red;}
+
+.base_i{border:solid 1px #D4D0C8;height:18px;font-size:12px;color:#666;font-family:Tahoma;padding:0px 0px 0px 2px;margin: 0px 15px 0px 0px }
+
+.w80 {width: 80px;}
+.w300 {width: 300px;}
+.w380 {width: 380px;}
+.w400 {width: 400px;}
+.h200 {height: 200px;}

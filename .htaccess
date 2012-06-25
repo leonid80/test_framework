@@ -1,0 +1,7 @@
+
+RewriteEngine On
+
+RewriteCond $1 !^(index\.php)
+#opnosqj`el t`ik{ q nopedek8mm{lh p`qxhpemhlh
+RewriteCond $1 !\.(js|ico|gif|jpg|png|css|txt|html|xml|swf|htc|php)$
+RewriteRule ^(.*)$ /index.php/$1 [L]
